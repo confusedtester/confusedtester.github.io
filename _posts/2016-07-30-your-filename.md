@@ -1,5 +1,6 @@
 ---
-published: false
+layout: post
+title: Welcome to Confused Tester
 ---
 ## Welcome to Confused Tester
 
